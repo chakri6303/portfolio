@@ -37,7 +37,7 @@ export const MyLinks = () => {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.2 }}
       >
-        <Link href="https://github.com/jcdevz-dev" target="_blank" rel="nofollow">
+        <Link href="https://github.com/chakri6303" target="_blank" rel="nofollow">
           <AiFillGithub size="2.4rem" />
         </Link>
       </motion.span>
