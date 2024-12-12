@@ -19,7 +19,7 @@ export const Projects = () => {
 const projects = [
   {
     title: "Classified",
-    imgSrc: "/project-imgs/agency-listing.png",
+    imgSrc: "/project-imgs/Blooddonation.jpg",
     code: "#",
     projectLink: "#",
     tech: ["React", "Nextjs", "Tailwind", "Prisma"],
